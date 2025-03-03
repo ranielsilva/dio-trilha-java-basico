@@ -17,7 +17,7 @@ public class TiposVariaveis {
     char letra = 'A';
 
     // Tipo booleano (boolean)
-    boolean valor = true;
+    boolean valor = false;
 
     // Tipo String (sequência de caracteres)
     String nome = "Raniel";
