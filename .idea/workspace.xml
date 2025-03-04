@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51611f99-1e59-4697-aa00-0a150874e7fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/raniel/metodos/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/raniel/metodos/Usuario.java" afterDir="false" />
+    <list default="true" id="51611f99-1e59-4697-aa00-0a150874e7fe" name="Changes" comment="aula de criação de métodos e manipulação de objetos">
+      <change afterPath="$PROJECT_DIR$/src/edu/raniel/javadoc/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/raniel/terminal_e_argumentos/MinhaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/raniel/terminal_e_argumentos/SobreMim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
     "Application.Main.executor": "Run",
     "Application.MinhaClasse.executor": "Run",
     "Application.Operadores.executor": "Run",
+    "Application.SobreMim.executor": "Run",
     "Application.Usuario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -64,6 +66,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SobreMim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.raniel.terminal_e_argumentos.SobreMim" />
+      <module name="java-anatomia-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.raniel.terminal_e_argumentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SobreMim" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,8 +103,17 @@
       <option name="presentableId" value="Default" />
       <updated>1741019223638</updated>
       <workItem from="1741019224698" duration="5794000" />
-      <workItem from="1741038334750" duration="7073000" />
+      <workItem from="1741038334750" duration="11303000" />
     </task>
+    <task id="LOCAL-00001" summary="aula de criação de métodos e manipulação de objetos">
+      <option name="closed" value="true" />
+      <created>1741047927856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741047927856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aula de criação de métodos e manipulação de objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula de criação de métodos e manipulação de objetos" />
   </component>
 </project>
